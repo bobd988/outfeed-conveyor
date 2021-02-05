@@ -7,7 +7,7 @@ This project will demonstrate robot pick-and-place in ROS and Gazebo. The robot 
 
 A real robot pick and place with infeed conveyor and outfeed conveyor may look like this
 <p align="center">
-<img src="https://github.com/bobd988/outfeed-conveyor/blob/master/img/ur5-demo.jpg" width="400">
+<img src="https://github.com/bobd988/outfeed-conveyor/blob/master/img/ur5-demo.gif" width="400">
 
 The outfeed conveyor can be like this
 <p align="center">
